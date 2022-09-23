@@ -1,10 +1,13 @@
 # NLW eSportes - Trilha Explorer
 
-![preview] (./.github/preview.png)
+<div aling="center">
+    <img src=".github/preview.png" alt="">
+</div>
 
-Projeto construído no evento Next Level Week da Rockeseat.
 
-🔗[Clique aqui para acessar] (https://samaracarvalho09.github.io/nlw-eSports/)
+### Projeto construído no evento Next Level Week da Rockeseat.
+
+[🔗 Clique aqui para acessar](https://samaracarvalho09.github.io/nlw-eSports/)
 
 ## 🛠 Tecnologias
 
@@ -14,4 +17,5 @@ Projeto construído no evento Next Level Week da Rockeseat.
 
 ## Contato
 
-samaracarvalho09@hotmail.com
+E-mail: samaracarvalho09@hotmail.com <br>
+Linkedin: https://www.linkedin.com/in/samaracarvalho09/
